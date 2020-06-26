@@ -8,9 +8,6 @@ public class chuckNorris {
         System.out.println("Please leave Chuck alone, otherwise he's going to cry!!!!!");
 
         System.out.println("Please leave Chuck alone, otherwise he's going to cry!!!!!");
-        
-        System.out.println("Chuck is crying like a little girl!!!!!");
-        
-        
+        System.out.println("Please guys  let  solve  conflict  one  more  time!!!!!!!!!!");
     }
 }
